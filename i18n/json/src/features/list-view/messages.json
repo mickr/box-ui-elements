@@ -1,0 +1,42 @@
+[
+  {
+    "id": "boxui.metadataView.needRefiningHeaderText",
+    "description": "Header text shown in metadata view for when the user has too many results within some range",
+    "defaultMessage": "Too many results"
+  },
+  {
+    "id": "boxui.metadataView.needRefiningSubtitleText",
+    "description": "Subtitle text shown in metadata view for when the user has too many results within some range",
+    "defaultMessage": "Please use filters to refine your results."
+  },
+  {
+    "id": "boxui.metadataView.tooManyResultsHeaderText",
+    "description": "Header text shown in metadata view for when the user has too many results past an upper limit",
+    "defaultMessage": "Over {upperFileLimit} files match this template"
+  },
+  {
+    "id": "boxui.metadataView.tooManyResultsSubtitleText",
+    "description": "Subtitle text shown in metadata view for when the user has too many results past an upper limit",
+    "defaultMessage": "Result sets of this size are not currently supported in Box."
+  },
+  {
+    "id": "boxui.metadataView.noResultsForQueryHeaderText",
+    "description": "Header text shown in metadata view for when there are no results for the current query",
+    "defaultMessage": "No results"
+  },
+  {
+    "id": "boxui.metadataView.noResultsForQuerySubtitleText",
+    "description": "Subtitle text shown in metadata view for when there are no results for the current query",
+    "defaultMessage": "You do not have access to any files that match your query. Please use filters to modify your query."
+  },
+  {
+    "id": "boxui.metadataView.noResultsForTemplateHeaderText",
+    "description": "Header text shown in metadata view for when there are no results for the current template",
+    "defaultMessage": "No results"
+  },
+  {
+    "id": "boxui.metadataView.noResultsForTemplateSubtitleText",
+    "description": "Subtitle text shown in metadata view for when there are no results for the current template",
+    "defaultMessage": "You do not have access to any files that match this template."
+  }
+]

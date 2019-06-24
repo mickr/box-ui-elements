@@ -1,0 +1,27 @@
+[
+  {
+    "id": "boxui.classification.add",
+    "description": "Button to add classification on an item",
+    "defaultMessage": "Add"
+  },
+  {
+    "id": "boxui.classification.addClassification",
+    "description": "Button to add classification on an item",
+    "defaultMessage": "Add Classification"
+  },
+  {
+    "id": "boxui.classification.classification",
+    "description": "Header for classification section in sidebar",
+    "defaultMessage": "Classification"
+  },
+  {
+    "id": "boxui.classification.edit",
+    "description": "Button to edit classification on an item",
+    "defaultMessage": "Edit"
+  },
+  {
+    "id": "boxui.classification.missing",
+    "description": "Default message for classification in the sidebar when there is none",
+    "defaultMessage": "Not classified"
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "id": "boxui.contentExplorer.bookmark",
+    "description": "Icon title for a Box item of type bookmark or web-link",
+    "defaultMessage": "Bookmark"
+  },
+  {
+    "id": "boxui.contentExplorer.breadcrumb",
+    "description": "Aria label for the folder breadcrumb",
+    "defaultMessage": "Breadcrumb"
+  },
+  {
+    "id": "boxui.contentExplorer.clickToGoBack",
+    "description": "Aria label for button to navigate back to the previous folder",
+    "defaultMessage": "Click to go back"
+  },
+  {
+    "id": "boxui.contentExplorer.collaboratedFolder",
+    "description": "Icon title for a Box item of type folder that has collaborators",
+    "defaultMessage": "Collaborated Folder"
+  },
+  {
+    "id": "boxui.contentExplorer.externalFolder",
+    "description": "Icon title for a Box item of type folder that has collaborators outside of the user's enterprise",
+    "defaultMessage": "External Folder"
+  },
+  {
+    "id": "boxui.contentExplorer.file",
+    "description": "Icon title for a Box item of type file",
+    "defaultMessage": "File"
+  },
+  {
+    "id": "boxui.contentExplorer.personalFolder",
+    "description": "Icon title for a Box item of type folder that is private and has no collaborators",
+    "defaultMessage": "Personal Folder"
+  },
+  {
+    "id": "boxui.contentExplorer.selectItem",
+    "description": "Label for radio input to select an item from the item list, {name} is the item name",
+    "defaultMessage": "Select {name}"
+  },
+  {
+    "id": "boxui.contentExplorer.name",
+    "description": "Text shown as the header for a column of item names in the list",
+    "defaultMessage": "Name"
+  },
+  {
+    "id": "boxui.contentExplorer.cancel",
+    "description": "Text shown on button used to close the content explorer",
+    "defaultMessage": "Cancel"
+  },
+  {
+    "id": "boxui.contentExplorer.choose",
+    "description": "Text shown on button used to choose an item",
+    "defaultMessage": "Choose"
+  },
+  {
+    "id": "boxui.contentExplorer.move",
+    "description": "Text shown on button used to move an item to a different folder",
+    "defaultMessage": "Move"
+  },
+  {
+    "id": "boxui.contentExplorer.copy",
+    "description": "Text shown on button used to copy an item to a different folder",
+    "defaultMessage": "Copy"
+  },
+  {
+    "id": "boxui.contentExplorer.searchPlaceholder",
+    "description": "Placeholder text shown in the search input",
+    "defaultMessage": "Search"
+  },
+  {
+    "id": "boxui.contentExplorer.searchResults",
+    "description": "Text shown in the breadcrumbs when showing search results",
+    "defaultMessage": "Search Results"
+  },
+  {
+    "id": "boxui.contentExplorer.newFolder",
+    "description": "Text shown on button used to create a new folder",
+    "defaultMessage": "New Folder"
+  },
+  {
+    "id": "boxui.contentexplorer.newFolder.forbidden",
+    "description": "Text shown when hovering over a disabled new folder button because the user lacks permissions to create a folder",
+    "defaultMessage": "You do not have permission to create a folder here."
+  },
+  {
+    "id": "boxui.contentExplorer.numSelected",
+    "description": "Text shown to indicate the number of items selected",
+    "defaultMessage": "{numSelected} Selected"
+  },
+  {
+    "id": "boxui.contentExplorer.emptySearch",
+    "description": "Text shown in the list when there are no search results",
+    "defaultMessage": "Sorry, we couldn't find what you're looking for."
+  },
+  {
+    "id": "boxui.contentExplorer.emptyFolder",
+    "description": "Text shown in the list when the folder being viewed is empty",
+    "defaultMessage": "There are no subfolders in this folder."
+  },
+  {
+    "id": "boxui.newFolderModal.title",
+    "description": "Title shown in the modal used to create a new folder. \"parentFolderName\" should not be translated",
+    "defaultMessage": "Create a New Folder in \"{parentFolderName}\""
+  },
+  {
+    "id": "boxui.newFolderModal.folderName.label",
+    "description": "Label text shown on top of the folder name input when creating a new folder",
+    "defaultMessage": "Folder Name"
+  },
+  {
+    "id": "boxui.newFolderModal.folderName.placeholder",
+    "description": "Placeholder text shown in the folder name input when creating a new folder",
+    "defaultMessage": "My New Folder"
+  },
+  {
+    "id": "boxui.newFolderModal.cancel",
+    "description": "Text shown on button to close the modal used to create a new folder",
+    "defaultMessage": "Cancel"
+  },
+  {
+    "id": "boxui.newFolderModal.create",
+    "description": "Text shown on button to create a new folder",
+    "defaultMessage": "Create"
+  }
+]

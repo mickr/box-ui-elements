@@ -1,0 +1,97 @@
+[
+  {
+    "id": "boxui.versionHistoryModal.title",
+    "description": "Title of the version history modal",
+    "defaultMessage": "Version History"
+  },
+  {
+    "id": "boxui.versionHistoryModal.versionNumberBadge",
+    "description": "Badge text showing current version number",
+    "defaultMessage": "V{versionNumber}"
+  },
+  {
+    "id": "boxui.versionHistoryModal.versionNumberLabel",
+    "description": "Label given to the version badge for screen readers",
+    "defaultMessage": "Version number {versionNumber}"
+  },
+  {
+    "id": "boxui.versionHistoryModal.current",
+    "description": "Badge text indicating version is the current version (must be lower case)",
+    "defaultMessage": "current"
+  },
+  {
+    "id": "boxui.versionHistoryModal.currentVersionLabel",
+    "description": "Label given to the current badge for screen readers",
+    "defaultMessage": "This is the current version of the file"
+  },
+  {
+    "id": "boxui.versionHistoryModal.deletedPermanentlyByInfo",
+    "description": "Description of a version that will be permanently deleted",
+    "defaultMessage": "Removed on {deleted, date, full} by {deleterUserName}. Per your company settings, this version will be removed permanently on {deletedPermanentlyBy, date, full}."
+  },
+  {
+    "id": "boxui.versionHistoryModal.deletedByInfo",
+    "description": "Description of a version that has been deleted",
+    "defaultMessage": "Removed on {deleted, date, full} by {deleterUserName}."
+  },
+  {
+    "id": "boxui.versionHistoryModal.restoredByInfo",
+    "description": "Description of a version that has been restored",
+    "defaultMessage": "Restored on {restored, date, full} by {restorerUserName}."
+  },
+  {
+    "id": "boxui.versionHistoryModal.restoredFromVersionInfo",
+    "description": "Description of a version that has been restored. {versionNumber} is the version number of the original file version restored.",
+    "defaultMessage": "Restored on {restored, date, full} from V{versionNumber} by {restorerUserName}."
+  },
+  {
+    "id": "boxui.versionHistoryModal.restoredFromPreviousVersionInfo",
+    "description": "Description of a version that has been restored from a now unavailable previous version.",
+    "defaultMessage": "Restored on {restored, date, full} from a previous version by {restorerUserName}."
+  },
+  {
+    "id": "boxui.versionHistoryModal.uploadedInfo",
+    "description": "Description of a version that has been uploaded",
+    "defaultMessage": "Uploaded on {uploaded, date, full} at {uploaded, time, short} by {uploaderUserName}."
+  },
+  {
+    "id": "boxui.versionHistoryModal.restore",
+    "description": "Button text for restoring a version",
+    "defaultMessage": "Restore"
+  },
+  {
+    "id": "boxui.versionHistoryModal.download",
+    "description": "Button text for downloading a version",
+    "defaultMessage": "Download"
+  },
+  {
+    "id": "boxui.versionHistoryModal.makeCurrent",
+    "description": "Button text for restoring a version as current",
+    "defaultMessage": "Make Current"
+  },
+  {
+    "id": "boxui.versionHistoryModal.remove",
+    "description": "Button text for removing/deleting a version",
+    "defaultMessage": "Remove"
+  },
+  {
+    "id": "boxui.versionHistoryModal.versionLimitExceeded",
+    "description": "Text displayed instead of button actions",
+    "defaultMessage": "You can restore the most recent {versionLimit} versions of any file."
+  },
+  {
+    "id": "boxui.versionHistoryModal.retainedIndefinitely",
+    "description": "Text displayed when a version is retained indefinitely",
+    "defaultMessage": "Retained indefinitely by retention policy."
+  },
+  {
+    "id": "boxui.versionHistoryModal.retainedUntil",
+    "description": "Text displayed when a version is retained until a certain date",
+    "defaultMessage": "Retained until {dispositionDate, date, full} by retention policy."
+  },
+  {
+    "id": "boxui.versionHistoryModal.retainedAndDeletedOn",
+    "description": "Text displayed when a version is retained and will be deleted on a certain date",
+    "defaultMessage": "Will be deleted {dispositionDate, date, full} by retention policy."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "boxui.securityCloudGame.success",
+    "description": "Success message shown when a user successfully drags the cloud into position.",
+    "defaultMessage": "Success!"
+  },
+  {
+    "id": "boxui.securityCloudGame.instructions",
+    "description": "Instructional message displayed on the embed widget security drag-drop game",
+    "defaultMessage": "For security purposes, please drag the white cloud into the dark cloud."
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "be.deleteLabel",
+    "description": "Aria label for button to delete a comment, task, or app activity",
+    "defaultMessage": "Delete"
+  },
+  {
+    "id": "be.inlineDeleteCancel",
+    "description": "Button text to cancel inline item deletion",
+    "defaultMessage": "No"
+  },
+  {
+    "id": "be.inlineDeleteConfirm",
+    "description": "Button text to confirm inline item deletion",
+    "defaultMessage": "Yes"
+  }
+]
