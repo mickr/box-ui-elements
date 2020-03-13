@@ -308,6 +308,7 @@
     "peerDependencies": {
         "@hapi/address": ">=2.0.0 <2.1.2",
         "axios": "^0.18.1",
+        "box-annotations": "^3.13.0",
         "classnames": "^2.2.5",
         "color": "^3.1.2",
         "draft-js": "^0.10.1",

@@ -1,5 +1,6 @@
 // @flow
 import * as React from 'react';
+import BoxAnnotations from 'box-annotations';
 import { IntlProvider } from 'react-intl';
 import ContentPreview from '../ContentPreview';
 import notes from './ContentPreview.notes.md';
@@ -14,6 +15,7 @@ export const PreviewWithAnnotations = () => {
     return (
         <IntlProvider locale="en">
             <ContentPreview
+                boxAnnotations={new BoxAnnotations()}
                 features={global.FEATURES}
                 fileId={global.FILE_ID}
                 hasHeader
